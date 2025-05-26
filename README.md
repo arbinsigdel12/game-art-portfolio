@@ -3,8 +3,8 @@
 Welcome to my collection of game art assets made in Inkscape. These assets include characters, UI elements, and props.
 
 ## 🧍 Character Example
-![Character SVG](./assets/npc.svg)
-![Character SVG](./assets/beasttamer.svg)
-![Character SVG](./assets/brute.svg)
-![Character SVG](./assets/drawing.svg)
-![Character SVG](./assets/shamaan.svg)
+![NPC SVG](./npc.svg)
+![Beast Tamer SVG](./beasttamer.svg)
+![Brute SVG](./brute.svg)
+![Main SVG](./drawing.svg)
+![Shamaan SVG](./shamaan.svg)
